@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class cal
+class calculator
 {
     public static void main(String ar[])
     {
